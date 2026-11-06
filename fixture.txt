@@ -1,3 +1,0 @@
-# FRONTIER GitHits disposable fixture
-
-FRONTIER_FIXTURE_VERSION_B
